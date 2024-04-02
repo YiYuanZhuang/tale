@@ -7,7 +7,6 @@ tags: Tale
 excerpt_separator: <!--more-->
 sticky: true
 hidden: true
-date: 2024-03-31
 ---
 
 Welcome to our webpage about the San Francisco Crime Dataset, where we delve into interesting criminal activity patterns in San Francisco, with a focus on the distribution of theft related crimes over the five-year period from 2013 to 2017. Through a detailed analysis of existing crime data, the aim is to elucidate the general trend of theft and provide thoughtful recommendations.<!--more-->
