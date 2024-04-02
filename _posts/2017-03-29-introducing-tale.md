@@ -10,6 +10,20 @@ sticky: true
 hidden: true
 date: 2024-03-31
 ---
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Policing Smarter, Not Harder</title>
+</head>
+<body>
+
+<h1>Policing Smarter, Not Harder</h1>
+<h2>The Larceny/Theft Struggle in San Francisco (2013-2017)</h2>
+
+</body>
+</html>
+
+
 
 Welcome to San Francisco Larceny/Theft Crime webpage!
 
