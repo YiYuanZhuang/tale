@@ -31,7 +31,7 @@ This series of heatmaps provides a comprehensive visual representation of the pa
 
 <figure>
 <iframe src="https://YiYuanZhuang.github.io/tale/assets/image/map.html" style="width: 100%; height: 600px; border: none;"></iframe>
-    <figcaption>Figure 1: Visualisation of the 24-hour cycle of thelft crimes in San Francisco using a polar chart.</figcaption>
+    <figcaption>Figure 2: Visualisation of the 24-hour cycle of thelft crimes in San Francisco using a polar chart.</figcaption>
 </figure>
 
 During these five years, the density of theft incidents in the northeast of San Francisco has been consistently the highest. This includes public areas with high traffic and a large number of tourists, such as the financial district, the southern part of the market (SoMa), the task area, and the surrounding area of Market Street
