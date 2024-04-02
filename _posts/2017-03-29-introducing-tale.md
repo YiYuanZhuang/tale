@@ -19,7 +19,7 @@ A comprehensive investigation in San Francisco found that the incidence of theft
 
 <figure>
      <img src="https://YiYuanZhuang.github.io/tale/assets/image/time.png" alt="time" />  
-    <figcaption>Figure 1: 24-hour cycle of larceny/thelft crimes in San Francisco.</figcaption>
+    <figcaption>Figure 1: 24-hour cycle of larceny/thelft crimes in San Francisco</figcaption>
 </figure>
 
 As the city transitions into evening, a crescendo of red bars signals a surge in theft incidents, peaking at 6 pm. This indicates thefts are more frequent when people may be returning home from get off work or when pedestrian traffic is high. On the contrary, the theft rate is lowest around 5 am. in the morning, and gradually increases after noon to the evening peak.
@@ -33,7 +33,7 @@ What catches the eye is a hot theft crime map. The red lighting up the northeast
 
 <figure>
 <iframe src="https://YiYuanZhuang.github.io/tale/assets/image/map.html" style="width: 100%; height: 600px; border: none;"></iframe>
-    <figcaption>Figure 2: Visualisation of the 24-hour cycle of thelft crimes in San Francisco using a polar chart.</figcaption>
+    <figcaption>Figure 2: San Francisco Theft Crime Heat Map</figcaption>
 </figure>
 
 During these five years, the density of theft incidents in the northeast of San Francisco has been consistently the highest. This includes public areas with high traffic and a large number of tourists, such as the financial district, the southern part of the market (SoMa), the task area, and the surrounding area of Market Street
@@ -101,7 +101,7 @@ This crime ballet chart shows the occurrence of different types of larceny/theft
     </script>
   </body>
 </html>
-    <figcaption>Figure 1: Visualisation of the 24-hour cycle of thelft crimes in San Francisco using a polar chart.</figcaption>
+    <figcaption>Figure 3: Interactive bar chart of different types of thefts in San Francisco</figcaption>
 </figure>
 
 In this bar chart, you are encouraged to click on different larceny/theft types to see how they change throughout the day. From the chart, we can see that 5:00-7:00 pm is the peak time for Attempted theft, which echoes the information seen in the first chart. There are several influencing factors: (1) High visibility and dense crowds. 5:00-7:00 pm is during the day, which provides better visibility for thieves than at night. In addition, the flow of people during the evening peak hours can provide criminals with opportunities to steal unknowingly. (2) Store operations are busy. During this period, retail stores are usually busy with customers browsing and employees managing inventory, and they are easily tired after a day's work, putting off vigilance, which also allows criminals to take advantage of the chaos to sneak in.
