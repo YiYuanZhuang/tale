@@ -12,14 +12,14 @@ date: 2024-03-31
 
 Welcome to San Francisco Larceny/Theft Crime webpage!
 
-San Francisco is a city full of freedom, but it is also overshadowed by rampant larceny/theft. This article is based on the crime data of the San Francisco Police Department from 2013 to 2017 [1], tracking the silent traces of theft, and analyzing the model of theft crime from the perspectives of time, space, and different types.  We look forward to bringing inspiration to local residents in dealing with theft crimes, while exploring more possibilities for optimizing police investment in San Francisco.
+San Francisco(SF) is a city full of freedom, but it is also overshadowed by rampant larceny/theft. This article is based on the crime data of the San Francisco Police Department from 2013 to 2017 [1], tracking the silent traces of theft, and analyzing the model of theft crime from the perspectives of time, space, and different types.  We look forward to bringing inspiration to local residents in dealing with theft crimes, while exploring more possibilities for optimizing police investment in San Francisco.
 
-## Around the Clock Caution: Understanding Theft Cycle
+## "Carnival" under the night
 A comprehensive investigation in San Francisco found that the incidence of theft is shocking, affecting more than half of the city's residents. These incidents involve an astonishing number of blatant car intrusions, often occurring in areas popular with tourists. This unsettling reality resonates deeply with the widespread civic disillusionment in this city. [2] To improve this situation, we first analyzed the distribution of theft in SF during a 24-hour cycle.
 
 <figure>
      <img src="https://YiYuanZhuang.github.io/tale/assets/image/time.png" alt="time" />  
-    <figcaption>Figure 1: Visualisation of the 24-hour cycle of thelft crimes in San Francisco using a polar chart.</figcaption>
+    <figcaption>Figure 1: 24-hour cycle of larceny/thelft crimes in San Francisco.</figcaption>
 </figure>
 
 The data represented by the polar bar chart shows a sharp increase in theft/theft cases around 6 pm, indicating that theft is more frequent when people may be returning home from work or there is still a lot of pedestrian traffic. On the contrary, the incidence rate is lowest in the early morning around 5am, and gradually increases to the evening peak after noon.
