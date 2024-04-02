@@ -11,7 +11,7 @@ hidden: true
 
 Welcome to our webpage about the San Francisco Crime Dataset, where we delve into interesting criminal activity patterns in San Francisco, with a focus on the distribution of theft related crimes over the five-year period from 2013 to 2017. Through a detailed analysis of existing crime data, the aim is to elucidate the general trend of theft and provide thoughtful recommendations.<!--more-->
 
-## Around the Clock Caution: Understanding SF's Theft Cycle
+## Around the Clock Caution: Understanding Theft Cycle
 A comprehensive investigation in San Francisco found that the incidence of theft is shocking, affecting more than half of the city's residents. These incidents involve an astonishing number of blatant car intrusions, often occurring in areas popular with tourists. This unsettling reality resonates deeply with the widespread civic disillusionment in this city. [1] To improve this situation, we first analyzed the distribution of theft in SF during a 24-hour cycle.
 
 <figure>
@@ -25,17 +25,26 @@ For the entire community, as theft/theft incidents peak in the evening, individu
 
 Law enforcement agencies can better protect these peak hours by allocating additional resources and patrols to prevent theft. In addition, community outreach activities can play a crucial role in educating the public to protect themselves from theft. Strategically deploying monitoring infrastructure in key areas, especially those with high incidence during peak hours, can serve both as a deterrent and an investigative role.
 
-## Browser Support
-Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼
+## Spreading Shadows: Mapping the Escalating Theft Crisis
+This series of heatmaps provides a comprehensive visual representation of the patterns of theft incidents across San Francisco.
+
+During these five years, the density of theft incidents in the northeast of San Francisco has been consistently the highest. This includes public areas with high traffic and a large number of tourists, such as the financial district, the southern part of the market (SoMa), the task area, and the surrounding area of Market Street
+
+With the passage of time, it can be observed that destructive behavior has spread to more residential areas and remote communities, indicating that the problem is not limited to commercial intensive and tourist centered areas, but criminal activities are spreading throughout the city. The central region. By 2016, the heat map showed that the high incidence areas had significantly expanded towards the southern and western parts of the city. The destruction activities in the central and eastern communities such as Potrero Hill, as well as the surrounding areas of Golden Gate Park and Dolores Park, have also increased, indicating that although these leisure areas are community centered, they cannot be spared from such incidents.
+
+Obviously, theft is not only a problem in a central city, but also affects various communities throughout San Francisco. Measures to prevent theft need to be taken throughout the city, and social and environmental conditions that lead to high accident rates, such as poor lighting, lack of safety cameras, and proposing better property protection methods, need to be examined. In addition, based on the conclusions analyzed in the heat map, it can also help determine the priority of intervention areas and effectively customize community and police resources.
+
 <iframe src="/assets/image/map.html" style="width: 100%; height: 600px; border: none;"></iframe>
 
-<iframe src="/assets/image/type.html" style="width: 100%; height: 600px; border: none;"></iframe>
+## From Dusk Till Dawn: Decoding Diverse Theft Patterns
 
-## Download or Contribute
+This interactive bar chart shows the occurrence of different types of larceny/theft at different times of the day. Based on Larceny/Theft descriptions in San Francisco crime data, it can be roughly divided into 4 types: Attempted, Petty theft, Grand theft, and Others. “Attempted" means an attempted theft but failed. "Petty theft" means the amount stolen is less than or equal to US$950. “Grand theft" means the amount exceeds $950 [2]. "Others" means thefts that are not specifically classified in the crime data provided by the San Francisco police, such as "Embezzlement from a dependent or elder adult by the caretaker", "Theft of animals", etc. This type only accounts for 0.2% of the total larceny/theft data, so no detailed classification will be conducted in this chart.
 
-Tale is publicly hosted on GitHub, so go ahead and download or fork it at the [GitHub repository](https://github.com/chesterhow/tale). If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.
+In this bar chart, you are encouraged to click on different larceny/theft types to see how they change throughout the day. From the chart, we can see that 5:00-7:00 pm is the peak time for Attempted theft, which may be affected by several factors: (1) High visibility and dense crowds. 5:00-7:00 pm is during the day, which provides better visibility for thieves than at night. In addition, the flow of people during the evening peak hours can provide criminals with opportunities to steal unknowingly. (2) Store operations are busy. During this period, retail stores are usually busy with customers browsing and employees managing inventory, and they are easily tired after a day's work, putting off vigilance, which also allows criminals to take advantage of the chaos to sneak in.
 
-Thanks for checking out Tale!
+Therefore, staggered hours are a good option for residents, and they should remain vigilant when entering public places during the peak period of theft crime. For store operators, timely shift changes may be a choice to keep staff sensitive to theft, and promptly stop them when theft occurs, reducing incidents such as "Walgreens stores" that have to close in batches due to looting [3]. At the same time, the San Francisco police should improve the prevention of theft crimes during this period by strengthening patrols and shortening response times to crime incidents to reduce residents’ property losses.
+
+The patterns of "Petty theft" and "Attempted" theft are very similar, with both peaking around 5 p.m. Different from them, the peak period of "Grand theft" is after 5 o'clock, concentrated between 5:00-10:00. Among all kinds of grand thefts, the " Grand theft from locked auto" ranks far ahead, which accounts for 56% of the total "Grand theft". Prioritizing and targeting this type of theft would be a good option for San Francisco police to improve their reputation. It is good to hear San Francisco announced a proposed law in October 2023 to make it easier to prosecute car break-in thieves and their police are cracking down on car break-ins using a bait car program meant to catch thieves red-handed [4]. These measures may seem great, but it would be ideal to prevent larceny/theft crimes before they happen and stop them in time when they happen.
 
 <html lang="en">
   <head>
