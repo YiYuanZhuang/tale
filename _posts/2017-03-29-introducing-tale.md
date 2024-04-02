@@ -2,7 +2,7 @@
 layout: post
 title:  " Policing Smarter, Not Harder "
 subtitle: "The Larceny/Theft Struggle in San Francisco (2013-2017)"
-author: "YiYuan(s230032), JiaNan(s230033), lingYu(s232169)"
+author: "YiYuan, JiaNan, lingYu"
 comments: true
 tags: Tale
 excerpt_separator: <!--more-->
@@ -115,3 +115,4 @@ The patterns of "Petty theft" and "Attempted" theft are very similar, with both 
 3. Valery Nechay Law. "[San Francisco Theft](https://valerynechaylaw.com/san-francisco-theft/)."
 4. CBS News San Francisco. "[Walgreens Retail Theft, Shoplifting San Francisco Civic Center Caught on Camera](https://www.cbsnews.com/sanfrancisco/news/walgreens-retail-theft-shoplifting-san-francisco-civic-center-caught-on-camera/)."
 5. The SF Standard. "[San Francisco Car Break-In: New Law to Close Loophole](https://sfstandard.com/2023/10/26/san-francisco-car-break-in-new-law-loophole/)."
+
