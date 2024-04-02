@@ -45,7 +45,7 @@ Obviously, theft is not only a problem in a central city, but also affects vario
 
 ## Dangerous Theft Ballet
 
-It's an "elaborate" ballet of thefts, with a number of different crime types spinning around over the course of a few hours as you tap the different types of thefts with your finger.
+It is an "elaborate" ballet of thefts, with a number of different crime types spinning around over the course of a few hours as you tap the different types of thefts with your finger.
 
 This crime ballet chart shows the occurrence of different types of larceny/theft at different times of the day. Based on Larceny/Theft descriptions in San Francisco crime data, it can be roughly divided into 4 types: Attempted, Petty theft, Grand theft, and Others. “Attempted" means an attempted theft but failed. "Petty theft" means the amount stolen is less than or equal to US$950. “Grand theft" means the amount exceeds $950 [3]. "Others" means thefts that are not specifically classified in the crime data provided by the San Francisco police, such as "Embezzlement from a dependent or elder adult by the caretaker", "Theft of animals", etc. This type only accounts for 0.2% of the total larceny/theft data, so no detailed classification will be conducted in this chart.
 
