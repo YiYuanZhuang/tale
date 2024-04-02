@@ -29,7 +29,9 @@ Law enforcement agencies can better protect these peak hours by allocating addit
 ## Spreading Shadows: Mapping the Escalating Theft Crisis
 This series of heatmaps provides a comprehensive visual representation of the patterns of theft incidents across San Francisco.
 
-<iframe src="/image/map.html" style="width: 100%; height: 600px; border: none;"></iframe>
+<iframe src="https://YiYuanZhuang.github.io/tale/assets/image/map.html" style="width: 100%; height: 600px; border: none;"></iframe>
+<iframe src="https://YiYuanZhuang.github.io/tale/assets/image/type.html" style="width: 100%; height: 600px; border: none;"></iframe>
+
 
 During these five years, the density of theft incidents in the northeast of San Francisco has been consistently the highest. This includes public areas with high traffic and a large number of tourists, such as the financial district, the southern part of the market (SoMa), the task area, and the surrounding area of Market Street
 
