@@ -28,23 +28,18 @@ Law enforcement agencies can better protect these peak hours by allocating addit
 ## Spreading Shadows: Mapping the Escalating Theft Crisis
 This series of heatmaps provides a comprehensive visual representation of the patterns of theft incidents across San Francisco.
 
+<iframe src="/assets/image/map.html" style="width: 100%; height: 600px; border: none;"></iframe>
+
 During these five years, the density of theft incidents in the northeast of San Francisco has been consistently the highest. This includes public areas with high traffic and a large number of tourists, such as the financial district, the southern part of the market (SoMa), the task area, and the surrounding area of Market Street
 
 With the passage of time, it can be observed that destructive behavior has spread to more residential areas and remote communities, indicating that the problem is not limited to commercial intensive and tourist centered areas, but criminal activities are spreading throughout the city. The central region. By 2016, the heat map showed that the high incidence areas had significantly expanded towards the southern and western parts of the city. The destruction activities in the central and eastern communities such as Potrero Hill, as well as the surrounding areas of Golden Gate Park and Dolores Park, have also increased, indicating that although these leisure areas are community centered, they cannot be spared from such incidents.
 
 Obviously, theft is not only a problem in a central city, but also affects various communities throughout San Francisco. Measures to prevent theft need to be taken throughout the city, and social and environmental conditions that lead to high accident rates, such as poor lighting, lack of safety cameras, and proposing better property protection methods, need to be examined. In addition, based on the conclusions analyzed in the heat map, it can also help determine the priority of intervention areas and effectively customize community and police resources.
 
-<iframe src="/assets/image/map.html" style="width: 100%; height: 600px; border: none;"></iframe>
 
 ## From Dusk Till Dawn: Decoding Diverse Theft Patterns
 
 This interactive bar chart shows the occurrence of different types of larceny/theft at different times of the day. Based on Larceny/Theft descriptions in San Francisco crime data, it can be roughly divided into 4 types: Attempted, Petty theft, Grand theft, and Others. “Attempted" means an attempted theft but failed. "Petty theft" means the amount stolen is less than or equal to US$950. “Grand theft" means the amount exceeds $950 [2]. "Others" means thefts that are not specifically classified in the crime data provided by the San Francisco police, such as "Embezzlement from a dependent or elder adult by the caretaker", "Theft of animals", etc. This type only accounts for 0.2% of the total larceny/theft data, so no detailed classification will be conducted in this chart.
-
-In this bar chart, you are encouraged to click on different larceny/theft types to see how they change throughout the day. From the chart, we can see that 5:00-7:00 pm is the peak time for Attempted theft, which may be affected by several factors: (1) High visibility and dense crowds. 5:00-7:00 pm is during the day, which provides better visibility for thieves than at night. In addition, the flow of people during the evening peak hours can provide criminals with opportunities to steal unknowingly. (2) Store operations are busy. During this period, retail stores are usually busy with customers browsing and employees managing inventory, and they are easily tired after a day's work, putting off vigilance, which also allows criminals to take advantage of the chaos to sneak in.
-
-Therefore, staggered hours are a good option for residents, and they should remain vigilant when entering public places during the peak period of theft crime. For store operators, timely shift changes may be a choice to keep staff sensitive to theft, and promptly stop them when theft occurs, reducing incidents such as "Walgreens stores" that have to close in batches due to looting [3]. At the same time, the San Francisco police should improve the prevention of theft crimes during this period by strengthening patrols and shortening response times to crime incidents to reduce residents’ property losses.
-
-The patterns of "Petty theft" and "Attempted" theft are very similar, with both peaking around 5 p.m. Different from them, the peak period of "Grand theft" is after 5 o'clock, concentrated between 5:00-10:00. Among all kinds of grand thefts, the " Grand theft from locked auto" ranks far ahead, which accounts for 56% of the total "Grand theft". Prioritizing and targeting this type of theft would be a good option for San Francisco police to improve their reputation. It is good to hear San Francisco announced a proposed law in October 2023 to make it easier to prosecute car break-in thieves and their police are cracking down on car break-ins using a bait car program meant to catch thieves red-handed [4]. These measures may seem great, but it would be ideal to prevent larceny/theft crimes before they happen and stop them in time when they happen.
 
 <html lang="en">
   <head>
@@ -97,3 +92,15 @@ The patterns of "Petty theft" and "Attempted" theft are very similar, with both 
     </script>
   </body>
 </html>
+
+In this bar chart, you are encouraged to click on different larceny/theft types to see how they change throughout the day. From the chart, we can see that 5:00-7:00 pm is the peak time for Attempted theft, which may be affected by several factors: (1) High visibility and dense crowds. 5:00-7:00 pm is during the day, which provides better visibility for thieves than at night. In addition, the flow of people during the evening peak hours can provide criminals with opportunities to steal unknowingly. (2) Store operations are busy. During this period, retail stores are usually busy with customers browsing and employees managing inventory, and they are easily tired after a day's work, putting off vigilance, which also allows criminals to take advantage of the chaos to sneak in.
+
+Therefore, staggered hours are a good option for residents, and they should remain vigilant when entering public places during the peak period of theft crime. For store operators, timely shift changes may be a choice to keep staff sensitive to theft, and promptly stop them when theft occurs, reducing incidents such as "Walgreens stores" that have to close in batches due to looting [3]. At the same time, the San Francisco police should improve the prevention of theft crimes during this period by strengthening patrols and shortening response times to crime incidents to reduce residents’ property losses.
+
+The patterns of "Petty theft" and "Attempted" theft are very similar, with both peaking around 5 p.m. Different from them, the peak period of "Grand theft" is after 5 o'clock, concentrated between 5:00-10:00. Among all kinds of grand thefts, the " Grand theft from locked auto" ranks far ahead, which accounts for 56% of the total "Grand theft". Prioritizing and targeting this type of theft would be a good option for San Francisco police to improve their reputation. It is good to hear San Francisco announced a proposed law in October 2023 to make it easier to prosecute car break-in thieves and their police are cracking down on car break-ins using a bait car program meant to catch thieves red-handed [4]. These measures may seem great, but it would be ideal to prevent larceny/theft crimes before they happen and stop them in time when they happen.
+
+## Reference
+[1] CBS News San Francisco. "SFNext: Theft, Car Break-ins San Francisco".(https://www.cbsnews.com/sanfrancisco/news/sfnext-theft-car-break-ins-san-francisco/?intcid=CNM-00-10abd1h).
+[2] Valery Nechay Law. "San Francisco Theft".(https://valerynechaylaw.com/san-francisco-theft/).
+[3] CBS News San Francisco. "Walgreens Retail Theft, Shoplifting San Francisco Civic Center Caught on Camera". (https://www.cbsnews.com/sanfrancisco/news/walgreens-retail-theft-shoplifting-san-francisco-civic-center-caught-on-camera/)
+[4] The SF Standard. "San Francisco Car Break-In: New Law to Close Loophole".(https://sfstandard.com/2023/10/26/san-francisco-car-break-in-new-law-loophole/)
