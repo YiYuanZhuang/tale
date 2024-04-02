@@ -9,19 +9,19 @@ sticky: true
 hidden: true
 date: 2024-03-31
 ---
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>The Larceny/Theft Shadows in San Francisco (2013-2017)</title>
   <style>
-    h1 {
+    h2 {
       text-align: center;
     }
   </style>
 </head>
 <body>
 
-<h1>The Larceny/Theft Shadows in San Francisco (2013-2017)</h1>
+<h2>The Larceny/Theft Shadows in San Francisco (2013-2017)</h2>
 
 </body>
 </html>
