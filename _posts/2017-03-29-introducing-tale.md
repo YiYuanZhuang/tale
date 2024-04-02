@@ -2,7 +2,7 @@
 layout: post
 title:  " Policing Smarter, Not Harder "
 subtitle: "The Larceny/Theft Struggle in San Francisco (2013-2017)"
-author: "YiYuan, JiaNan, lingYu"
+author: "YiYuan(s230032), JiaNan(s230033), lingYu(s232169)"
 comments: true
 tags: Tale
 excerpt_separator: <!--more-->
