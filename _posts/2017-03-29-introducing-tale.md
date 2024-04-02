@@ -29,7 +29,14 @@ A comprehensive investigation in San Francisco found that the incidence of theft
 
 <img src="{{ "/_posts/time-plot.png" | prepend: /tale | prepend: https://YiYuanZhuang.github.io }}" alt="time-plot" />
 
-newtest22
+{% highlight markdown %}
+![Placeholder image](https://github.com/YiYuanZhuang/tale/_posts/image/time-plot.png/800x400 "Placeholder image")
+
+![Image with caption](https://github.com/YiYuanZhuang/tale/_posts/image/time-plot.png/700x400 "Image with caption")
+_This is an image with a caption_
+{% endhighlight %}
+
+
 The data represented by the polar bar chart shows a sharp increase in theft/theft cases around 6 pm, indicating that theft is more frequent when people may be returning home from work or there is still a lot of pedestrian traffic. On the contrary, the incidence rate is lowest in the early morning around 5am, and gradually increases to the evening peak after noon.
 
 For the entire community, as theft/theft incidents peak in the evening, individuals should be particularly vigilant when going out at dusk, especially in areas known to be crowded or with high pedestrian traffic. It is important to be more careful in protecting personal belongings and raising awareness of the surrounding environment. Consider scheduling errands at lower risk times (such as in the morning) to reduce the chances of becoming a victim of theft.
