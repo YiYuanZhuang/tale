@@ -29,9 +29,10 @@ Law enforcement agencies can better protect these peak hours by allocating addit
 ## Spreading Shadows: Mapping the Escalating Theft Crisis
 This series of heatmaps provides a comprehensive visual representation of the patterns of theft incidents across San Francisco.
 
+<figure>
 <iframe src="https://YiYuanZhuang.github.io/tale/assets/image/map.html" style="width: 100%; height: 600px; border: none;"></iframe>
-<iframe src="https://YiYuanZhuang.github.io/tale/assets/image/type.html" style="width: 100%; height: 600px; border: none;"></iframe>
-
+    <figcaption>Figure 1: Visualisation of the 24-hour cycle of thelft crimes in San Francisco using a polar chart.</figcaption>
+</figure>
 
 During these five years, the density of theft incidents in the northeast of San Francisco has been consistently the highest. This includes public areas with high traffic and a large number of tourists, such as the financial district, the southern part of the market (SoMa), the task area, and the surrounding area of Market Street
 
@@ -44,6 +45,7 @@ Obviously, theft is not only a problem in a central city, but also affects vario
 
 This interactive bar chart shows the occurrence of different types of larceny/theft at different times of the day. Based on Larceny/Theft descriptions in San Francisco crime data, it can be roughly divided into 4 types: Attempted, Petty theft, Grand theft, and Others. “Attempted" means an attempted theft but failed. "Petty theft" means the amount stolen is less than or equal to US$950. “Grand theft" means the amount exceeds $950 [2]. "Others" means thefts that are not specifically classified in the crime data provided by the San Francisco police, such as "Embezzlement from a dependent or elder adult by the caretaker", "Theft of animals", etc. This type only accounts for 0.2% of the total larceny/theft data, so no detailed classification will be conducted in this chart.
 
+<figure>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -95,6 +97,8 @@ This interactive bar chart shows the occurrence of different types of larceny/th
     </script>
   </body>
 </html>
+    <figcaption>Figure 1: Visualisation of the 24-hour cycle of thelft crimes in San Francisco using a polar chart.</figcaption>
+</figure>
 
 In this bar chart, you are encouraged to click on different larceny/theft types to see how they change throughout the day. From the chart, we can see that 5:00-7:00 pm is the peak time for Attempted theft, which may be affected by several factors: (1) High visibility and dense crowds. 5:00-7:00 pm is during the day, which provides better visibility for thieves than at night. In addition, the flow of people during the evening peak hours can provide criminals with opportunities to steal unknowingly. (2) Store operations are busy. During this period, retail stores are usually busy with customers browsing and employees managing inventory, and they are easily tired after a day's work, putting off vigilance, which also allows criminals to take advantage of the chaos to sneak in.
 
