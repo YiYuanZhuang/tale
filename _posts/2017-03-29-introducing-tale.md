@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Policing Smarter, Not Harder "
+title:  " The Larceny/Theft Shadows in San Francisco (2013-2017) "
 author: "YiYuan, JiaNan, lingYu"
 comments: true
 tags: Tale
@@ -9,22 +9,6 @@ sticky: true
 hidden: true
 date: 2024-03-31
 ---
-
-<html>
-<head>
-  <title>The Larceny/Theft Shadows in San Francisco (2013-2017)</title>
-  <style>
-    h2 {
-      text-align: center;
-    }
-  </style>
-</head>
-<body>
-
-<h2>The Larceny/Theft Shadows in San Francisco (2013-2017)</h2>
-
-</body>
-</html>
 
 Welcome to San Francisco Larceny/Theft Crime webpage!
 
