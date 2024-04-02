@@ -26,6 +26,8 @@ Law enforcement agencies can better protect these peak hours by allocating addit
 Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼
 
 ## Download or Contribute
+<iframe src="/assets/map.html" style="width: 100%; height: 600px; border: none;"></iframe>
+
 Tale is publicly hosted on GitHub, so go ahead and download or fork it at the [GitHub repository](https://github.com/chesterhow/tale). If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.
 
 Thanks for checking out Tale!
