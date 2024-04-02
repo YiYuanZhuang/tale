@@ -16,26 +16,10 @@ Welcome to our webpage about the San Francisco Crime Dataset, where we delve int
 A comprehensive investigation in San Francisco found that the incidence of theft is shocking, affecting more than half of the city's residents. These incidents involve an astonishing number of blatant car intrusions, often occurring in areas popular with tourists. This unsettling reality resonates deeply with the widespread civic disillusionment in this city. [1] To improve this situation, we first analyzed the distribution of theft in SF during a 24-hour cycle.
 
 <figure>
-    <img src="image/time-plot.png" width=650 height=500>
+    <img src="assets/image/time.png" width=650 height=500>
     
     <figcaption>Figure 1: Visualisation of the 24-hour cycle of thelft crimes in San Francisco using a polar chart.</figcaption>
 </figure>
-
-<img src="https://YiYuanZhuang.github.io/tale/_posts/image/time-plot.png" alt="time-plot" />
-
-<img src="{{/tale | prepend: https://YiYuanZhuang.github.io}}_posts/time-plot.png" alt="time-plot" />
-
-<!-- OR -->
-
-<img src="{{ "/_posts/time-plot.png" | prepend: /tale | prepend: https://YiYuanZhuang.github.io }}" alt="time-plot" />
-
-<img src="https://github.com/YiYuanZhuang/tale/_posts/image/time-plot.png" width="800" height="400" alt="Placeholder image">
-
-<figure>
-    <img src="https://github.com/YiYuanZhuang/tale/_posts/image/time-plot.png" width="700" height="400" alt="Image with caption">
-    <figcaption>This is an image with a caption</figcaption>
-</figure>
- test
 
 The data represented by the polar bar chart shows a sharp increase in theft/theft cases around 6 pm, indicating that theft is more frequent when people may be returning home from work or there is still a lot of pedestrian traffic. On the contrary, the incidence rate is lowest in the early morning around 5am, and gradually increases to the evening peak after noon.
 
