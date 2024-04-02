@@ -28,7 +28,6 @@ Law enforcement agencies can better protect these peak hours by allocating addit
 ## Browser Support
 Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼
 
-<!DOCTYPE html>
 <html>
 <head>
     
