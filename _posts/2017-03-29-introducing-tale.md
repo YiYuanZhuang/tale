@@ -112,7 +112,7 @@ Therefore, staggered hours are a good option for residents, and they should rema
 The patterns of "Petty theft" and "Attempted" theft are very similar, with both peaking around 5 p.m. Different from them, the peak period of "Grand theft" is after 5 o'clock, concentrated between 5:00-10:00. Among all kinds of grand thefts, the " Grand theft from locked auto" ranks far ahead, which accounts for 56% of the total "Grand theft". Prioritizing and targeting this type of theft would be a good option for San Francisco police to improve their reputation. It is good to hear San Francisco announced a proposed law in October 2023 to make it easier to prosecute car break-in thieves and their police are cracking down on car break-ins using a bait car program meant to catch thieves red-handed [5]. These measures may seem great, but it would be ideal to prevent larceny/theft crimes before they happen and stop them in time when they happen.
 
 ## Reference
-1. Police Department Incident Reports. "(https://data.sfgov.org/browse?category=Public+Safety)"
+1. Police Department Incident Reports. "[Police Department Incident Reports](https://data.sfgov.org/browse?category=Public+Safety)"
 2. CBS News San Francisco. "[SFNext: Theft, Car Break-ins San Francisco](https://www.cbsnews.com/sanfrancisco/news/sfnext-theft-car-break-ins-san-francisco/?intcid=CNM-00-10abd1h)."
 3. Valery Nechay Law. "[San Francisco Theft](https://valerynechaylaw.com/san-francisco-theft/)."
 4. CBS News San Francisco. "[Walgreens Retail Theft, Shoplifting San Francisco Civic Center Caught on Camera](https://www.cbsnews.com/sanfrancisco/news/walgreens-retail-theft-shoplifting-san-francisco-civic-center-caught-on-camera/)."
