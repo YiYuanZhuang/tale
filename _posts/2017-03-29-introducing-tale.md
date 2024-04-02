@@ -11,8 +11,6 @@ hidden: true
 date: 2024-03-31
 ---
 
-Welcome to our webpage about the San Francisco Crime Dataset, where we delve into interesting criminal activity patterns in San Francisco, with a focus on the distribution of theft related crimes over the five-year period from 2013 to 2017. Through a detailed analysis of existing crime data, the aim is to elucidate the general trend of theft and provide thoughtful recommendations.<!--more-->
-
 Welcome to San Francisco Larceny/Theft Crime webpage!
 
 San Francisco is a city full of freedom, but it is also overshadowed by rampant larceny/theft. This article is based on the crime data of the San Francisco Police Department from 2013 to 2017 [1], tracking the silent traces of theft, and analyzing the model of theft crime from the perspectives of time, space, and different types.  We look forward to bringing inspiration to local residents in dealing with theft crimes, while exploring more possibilities for optimizing police investment in San Francisco.
