@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " The Larceny/Theft Shadows in San Francisco (2013-2017) "
+title:  " The Larceny/Theft Shadows in San Francisco "
 author: "YiYuan, JiaNan, lingYu"
 comments: true
 tags: Tale
