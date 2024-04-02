@@ -15,7 +15,7 @@ Welcome to our webpage about the San Francisco Crime Dataset, where we delve int
 A comprehensive investigation in San Francisco found that the incidence of theft is shocking, affecting more than half of the city's residents. These incidents involve an astonishing number of blatant car intrusions, often occurring in areas popular with tourists. This unsettling reality resonates deeply with the widespread civic disillusionment in this city. [1] To improve this situation, we first analyzed the distribution of theft in SF during a 24-hour cycle.
 
 <figure>
-    <img src='/assets/time-plot.png' width=500 height=500>
+    <img src='/assets/time-plot.png' width=800 height=500>
     <figcaption>Figure 1: Visualisation of the 24-hour cycle of thelft crimes in San Francisco using a polar chart.</figcaption>
 </figure>
 
