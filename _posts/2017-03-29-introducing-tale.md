@@ -19,9 +19,12 @@ A comprehensive investigation in San Francisco found that the incidence of theft
     <figcaption>Figure 1: Visualisation of the 24-hour cycle of thelft crimes in San Francisco using a polar chart.</figcaption>
 </figure>
 
+{% highlight markdown %}
 ![Image with caption](https://github.com/YiYuanZhuang/tale/blob/master/assets/time-plot.png/700x400 "Image with caption")
 _This is an image with a caption_
 {% endhighlight %}
+
+
 
 The data represented by the polar bar chart shows a sharp increase in theft/theft cases around 6 pm, indicating that theft is more frequent when people may be returning home from work or there is still a lot of pedestrian traffic. On the contrary, the incidence rate is lowest in the early morning around 5am, and gradually increases to the evening peak after noon.
 
