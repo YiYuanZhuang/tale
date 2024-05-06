@@ -117,7 +117,11 @@ To this day, larceny/theft in San Francisco is still the number one crime type t
 
 The application is live at [Heroku App](https://lit-woodland-17019-4fe9595cf520.herokuapp.com/voila/render/interactive.ipynb?)
 
-The application is live at [Heroku App](https://lit-woodland-17019-4fe9595cf520.herokuapp.com/)
+<figure>
+     <img src="https://lit-woodland-17019-4fe9595cf520.herokuapp.com/voila/render/interactive.ipynb?" alt="time" />  
+    <figcaption>Figure 1: 24-hour cycle of larceny/thelft crimes in San Francisco</figcaption>
+</figure>
+
 
 
 ## Reference
