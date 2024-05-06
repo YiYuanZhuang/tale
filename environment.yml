@@ -10,5 +10,4 @@ dependencies:
   - folium=0.16.0
   - ipywidgets=8.1.2
   - notebook  # Jupyter Notebook
-  - pip:
-    - plotly  # 如果您还需要其他通过pip安装的包
+
