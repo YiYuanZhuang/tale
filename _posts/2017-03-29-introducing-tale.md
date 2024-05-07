@@ -18,7 +18,33 @@ San Francisco(SF) is a city full of freedom, but it is also overshadowed by ramp
 A comprehensive investigation in San Francisco found that the incidence of theft is shocking, affecting more than half of the city's residents. These incidents involve an astonishing number of blatant car intrusions, often occurring in areas popular with tourists. This unsettling reality resonates deeply with the widespread civic disillusionment in this city. [2] To improve this situation, we first analyzed the distribution of theft in SF during a 24-hour cycle.
 
 <figure>
-     <img src="https://YiYuanZhuang.github.io/tale/assets/image/time.png" alt="time" />  
+     <img src="https://YiYuanZhuang.github.io/tale/assets/image/correlation_heatmap.html" alt="time" />  
+    <figcaption>Figure 1: 24-hour cycle of larceny/thelft crimes in San Francisco</figcaption>
+</figure>
+
+<figure>
+     <img src="https://YiYuanZhuang.github.io/tale/assets/image/correlation_heatmap.html" alt="time" />  
+    <figcaption>Figure 1: 24-hour cycle of larceny/thelft crimes in San Francisco</figcaption>
+</figure>
+
+<figure>
+     <img src="https://YiYuanZhuang.github.io/tale/assets/image/House _Scores_scatter.html" alt="time" />  
+    <figcaption>Figure 1: 24-hour cycle of larceny/thelft crimes in San Francisco</figcaption>
+</figure>
+
+<figure>
+     <img src="https://YiYuanZhuang.github.io/tale/assets/image/ House _economy_scatter .html" alt="time" />  
+    <figcaption>Figure 1: 24-hour cycle of larceny/thelft crimes in San Francisco</figcaption>
+</figure>
+
+
+<figure>
+     <img src="https://YiYuanZhuang.github.io/tale/assets/image/heatmap.html" alt="time" />  
+    <figcaption>Figure 1: 24-hour cycle of larceny/thelft crimes in San Francisco</figcaption>
+</figure>
+
+<figure>
+     <img src="https://YiYuanZhuang.github.io/tale/assets/image/map.html" alt="time" />  
     <figcaption>Figure 1: 24-hour cycle of larceny/thelft crimes in San Francisco</figcaption>
 </figure>
 
