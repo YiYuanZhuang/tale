@@ -17,6 +17,10 @@ San Francisco(SF) is a city full of freedom, but it is also overshadowed by ramp
 ## "Carnival" Under the Night
 A comprehensive investigation in San Francisco found that the incidence of theft is shocking, affecting more than half of the city's residents. These incidents involve an astonishing number of blatant car intrusions, often occurring in areas popular with tourists. This unsettling reality resonates deeply with the widespread civic disillusionment in this city. [2] To improve this situation, we first analyzed the distribution of theft in SF during a 24-hour cycle.
 
+<figure>
+<iframe src="https://YiYuanZhuang.github.io/tale/assets/image/time.png" style="width: 100%; height: 600px; border: none;"></iframe>
+    <figcaption>Figure 1: San Francisco Theft Time Heat cycle</figcaption>
+</figure>
 
 As the city transitions into evening, a crescendo of red bars signals a surge in theft incidents, peaking at 6 pm. This indicates thefts are more frequent when people may be returning home from get off work or when pedestrian traffic is high. On the contrary, the theft rate is lowest around 5 am. in the morning, and gradually increases after noon to the evening peak.
 
