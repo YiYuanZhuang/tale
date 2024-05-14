@@ -7,7 +7,7 @@ tags: Tale
 excerpt_separator: <!--more-->
 sticky: true
 hidden: true
-date: 2024-05-7
+date: 2024-03-31
 ---
 
 In the old and modern city of Copenhagen, the secret of house prices is like a treasure hidden underneath the beautiful streets and canals. This article is a journey to unravel this mystery through cutting-edge data visualization techniques. We hope it can give you inspiration for finding your future home. Let‘s enjoy this journey!
